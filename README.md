@@ -1,5 +1,5 @@
 # Student Budget Tracker 
-A python app to help students track expenses ans stay within budget.
+A python app to help students track expenses and stay within budget.
 
 ## What it does
 - Add an expense with name, amount, and date
